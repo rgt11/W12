@@ -63,7 +63,7 @@ header .toggle img
 	font-size: 1.2em;
 	font-weight: 500;
 	letter-spacing: 0.02em;
-	line-height: 1.2em;
+	line-height: 1.7em;
 	margin: 15px 0 35px;
 	text-align: justify;
 	color:#3d1a3b;
@@ -117,11 +117,12 @@ header .toggle img
 	bottom: 50px;
 	left: calc(50% - 250px / 2);
 	width: 250px;
-	height: 130px;
-	background: url(https://i.ibb.co/0YZnX5G/casts.jpg);
+	height: 100px;
+	/*background: url(https://i.ibb.co/0YZnX5G/casts.jpg);*/
+	background: url(https://i.ibb.co/pKJSphp/foto.jpg);
 	background-size: cover;
 	cursor: pointer;
-	animation: animate 11s linear infinite;
+	animation: animate 8s linear infinite;
 }
 @keyframes animate
 {
